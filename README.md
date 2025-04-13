@@ -10,7 +10,7 @@
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)と[lilToon](https://lilxyzw.github.io/lilToon/)をプロジェクトに追加します  
   
-2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Ear_Ring/releases/latest)からLulu_Ear_Ring.unitypackageをダウンロードして、プロジェクトにインポートします  
+2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Ear_Ring/releases/latest)から**Lulu_Ear_Ring.unitypackage**をダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Luke's Assets>Lulu_Ear_Ringの中にある**Lulu_Ear_Ring～.prefab**をアバター直下に追加します  
 &emsp;(Lulu_Ear_Ringはドーナツ型、Lulu_Ear_Ring2は円柱型で、左右別々に用意しています)  

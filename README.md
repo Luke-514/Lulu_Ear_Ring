@@ -1,5 +1,6 @@
 # これは何？
 ・ルル君用のイヤリングです  
+・耳の動きに追従します  
 &emsp;<img src="image/Lulu_Ear_Ring.png" width="45%" /><img src="image/Lulu_Ear_Ring2.png" width="45%" />  
   
 # 注意事項など

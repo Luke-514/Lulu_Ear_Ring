@@ -5,9 +5,10 @@
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
-・[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、  
-&emsp;イヤリングの位置を調整する必要があります  
-&emsp;<img src="image/位置サイズ調整.png" width="30%" />  
+&emsp;([ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)の対応状況は確認中です)  
+<!--・[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、  -->
+<!--&emsp;イヤリングの位置を調整する必要があります  -->
+<!--&emsp;<img src="image/位置サイズ調整.png" width="30%" />  -->
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)と[lilToon](https://lilxyzw.github.io/lilToon/)をプロジェクトに追加します  

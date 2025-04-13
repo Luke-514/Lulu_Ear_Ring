@@ -13,7 +13,7 @@
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Ear_Ring/releases/latest)からLulu_Ear_Ring.unitypackageをダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Luke's Assets>Lulu_Ear_Ringの中にある**Lulu_Ear_Ring～.prefab**をアバター直下に追加します  
-&emsp;(Lulu_Ear_Ringはドーナツ型、Lulu_Ear_Ring2は円柱型です)  
+&emsp;(Lulu_Ear_Ringはドーナツ型、Lulu_Ear_Ring2は円柱型で左右別々に用意しています)  
 &emsp;<img src="image/Prefab配置.png" width="20%" />  
   
 # 免責事項

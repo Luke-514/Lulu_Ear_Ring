@@ -1,6 +1,6 @@
 # これは何？
 ・ルル君用のイヤリングです  
-&emsp;<img src="image/Lulu_Ear_Ring.png" width="30%" /><img src="image/Lulu_Ear_Ring2.png" width="30%" />  
+&emsp;<img src="image/Lulu_Ear_Ring.png" width="45%" /><img src="image/Lulu_Ear_Ring2.png" width="45%" />  
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
